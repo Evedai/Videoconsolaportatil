@@ -1,3 +1,31 @@
-body {
-    background: yellow;
+* {
+    margin: 0px;
+    padding:0px;
+}
+.carcasa{ 
+    width: 350px;
+    height:500px;
+    background: pink;
+    border-radius: 5%;
+    border-bottom-right-radius: 15%;
+    display: flex;
+
+}
+
+.bordepantalla{
+    width: 250px;
+    height: 200px;
+    background: rgb(53, 51, 51);
+    border-style: solid;
+   
+    
+}
+
+.pantalla{
+    width: 150px;
+    height: 150px;
+    background: rgb(15, 54, 15);
+    align-self: center;
+    border-style: solid;
+    border-width: 3px;
 }
