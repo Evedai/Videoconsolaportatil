@@ -20,8 +20,8 @@
 .bordepantalla {
   width: 280px;
   height: 200px;
-position: absolute;
-  background: rgb(53, 51, 51);
+  position: absolute;
+  background: rgb(36, 35, 35);
   margin-top: 30px;
   border-radius: 3%;
   border-bottom-right-radius: 15%;
@@ -32,11 +32,11 @@ position: absolute;
   width: 200px;
   height: 150px;
   background-image: url(img/nintendo.png);
- align-self: center;
+  align-self: center;
   border-top-style: solid;
   border-left: solid;
   border-width: 5px;
-  border-color: rgb(22, 26, 22);
+  border-color: rgb(3, 3, 3);
   margin: 0 auto;
   margin-top: 20px;
 }
@@ -71,6 +71,14 @@ position: absolute;
   right: 70px;
 }
 
+.botona p {
+  position: absolute;
+  color: black;
+  font-size: x-large;
+  top: 10px;
+  left: 70px;
+}
+
 .botonb {
   width: 50px;
   height: 50px;
@@ -79,6 +87,15 @@ position: absolute;
   position: absolute;
   top: 260px;
   right: 15px;
+}
+
+.botonb p {
+  position: absolute;
+  color: black;
+  font-size: x-large;
+  top: 90px;
+  left: -35px;
+
 }
 
 .oval1 {
@@ -101,11 +118,22 @@ position: absolute;
   left: 170px;
 }
 
-/* .parlante {
+.parlante {
   width: 70px;
   height: 70px;
-  background-image: url(img/parlante.png);
+  background-image: url(img/parlantito.png);
   position: absolute;
   align-self: flex-end;
-  left: 230px;
-} */
+  left: 250px;
+  top: 460px;
+}
+
+.gameboytexto {
+  width: 100px;
+  height: 30px;
+  background-image: url(img/gameboypockettexto.png);
+  background-size: contain;
+  position: absolute;
+  top: 170px;
+  left: 42px;
+}
