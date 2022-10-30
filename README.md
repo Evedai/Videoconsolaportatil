@@ -3,7 +3,6 @@
 ## Proyecto
 
 - [About](#about)
-- [Getting Started](#getting_started)
 
 
 
