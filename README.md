@@ -11,5 +11,5 @@
 Proyecto de videoconsola custom creada con HTML y CSS.  
 Temática de la carcasa de Sailormoon.
 
-[img]https://i.postimg.cc/Z0dfn6BB/Videoconsola.png[/img]
+
 
