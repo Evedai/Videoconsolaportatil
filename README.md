@@ -2,7 +2,7 @@
 
 ## Proyecto
 
-- [About](#about)
+[Ver el proyecto](https://github.com/Evedai/Videoconsolaportatil.git)
 
 
 
