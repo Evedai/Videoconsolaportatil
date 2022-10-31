@@ -1,7 +1,5 @@
 # Videoconsola con CSS
 
-## Proyecto
-
 [Ver el proyecto](https://github.com/Evedai/Videoconsolaportatil.git)
 
 
